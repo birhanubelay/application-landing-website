@@ -211,9 +211,23 @@ body{
     border:none;
 
 }
+.content-title{
+    text-align: center;
+    font-size: 150%;
+}
 .about-company{
     display: flex;
     justify-content: space-between;
+    margin-top: 5%;
+}
+.mobile-app{
+    width:40%;
+    font-size: 120%;
+    margin-top: 5%;
+}
+.settings-process {
+    transform: rotate(6deg);
+    margin-top: -30px;
 }
 .profile{
     display:flex;
